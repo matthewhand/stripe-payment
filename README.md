@@ -10,11 +10,18 @@ This project was entirely developed using ChatGPT and the Noteable plugin. It de
 
 ## Donation Button
 
-If you find this project useful, you can support its development by making a donation. Click on the button below to make a donation.
+If you find this project useful, you can support its development by making a donation. Click on the button below to make a donation. You can choose an amount between 1 and 99.
 
-[![Donate Now](https://buy.stripe.com/00g14peASeEd7xCcMM)](https://buy.stripe.com/00g14peASeEd7xCcMM)
+[![Donate Now](https://buy.stripe.com/5kA6oE1V2a4d7xCcMM)](https://buy.stripe.com/5kA6oE1V2a4d7xCcMM)
+
+![QR Code](https://github.com/matthewhand/stripe-payment/raw/main/qr_00g14peASeEd7xCcMM.png)
 
 ## TODO
 
 - Vercel deployment
 
+## Notebooks
+
+The files in the 'notebooks' folder are the raw files created by ChatGPT. They contain the Python code that was executed to develop this project.
+
+![Human AI Conflict](https://github.com/matthewhand/stripe-payment/raw/main/human_ai_conflict.png)
