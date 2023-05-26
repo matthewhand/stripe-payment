@@ -10,19 +10,11 @@ This project was entirely developed using ChatGPT and the Noteable plugin. It de
 
 ## Donation Button
 
-If you find this project useful, you can support its development by making a donation. Click on the button below to make a donation. You can choose an amount between 1 and 99.
+If you find this project useful, you can support its development by making a donation. Think of it as buying me a coffee. Click on the button below to make a donation. You can choose an amount between 1 and 99.
 
-```HTML
-<script async
-  src="https://js.stripe.com/v3/buy-button.js">
-</script>
+[![Donate with Stripe](https://img.shields.io/badge/Donate%20with-Stripe-blue.svg)](https://checkout.stripe.com/pay/cs_test_a1P7OQPhmG6MqQKNY9tVn7B6lHvlI6FQ8wM6mMuz2CZahW3nySv5mI6B)
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1NBz0WA0yRYMOQJJWPhUl2fy"
-  publishable-key="pk_live_51NBv9eA0yRYMOQJJqNsuyVSjrbbLF6NGov8WiB7GFMs2O1TajLUb3lHZ6ixd0ZdhfTRyDKRmbWAvWZgIxOTMzGdE00ZGkxpcKh"
->
-</stripe-buy-button>
-```
+![QR Code](https://github.com/matthewhand/stripe-payment/raw/main/qr_00g14peASeEd7xCcMM.png)
 
 ## TODO
 
