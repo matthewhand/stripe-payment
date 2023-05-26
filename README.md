@@ -12,7 +12,7 @@ This project was entirely developed using ChatGPT and the Noteable plugin. It de
 
 If you find this project useful, you can support its development by making a donation. Click on the button below to make a donation. You can choose an amount between 1 and 99.
 
-[![Donate Now](https://buy.stripe.com/5kA6oE1V2a4d7xCcMM)](https://buy.stripe.com/5kA6oE1V2a4d7xCcMM)
+[![Donate Now](https://buy.stripe.com/00g14peASeEd7xCcMM)](https://buy.stripe.com/00g14peASeEd7xCcMM)
 
 ![QR Code](https://github.com/matthewhand/stripe-payment/raw/main/qr_00g14peASeEd7xCcMM.png)
 
