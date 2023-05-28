@@ -24,21 +24,21 @@ Or send to my Ethereum (ETH) wallet
 
 ## TODO
 
-- [x] Create donation button that uses Stripe.
-- [ ] Update Strip donation button referenced payment link to support at least Google Payment.
-
-- [x] (User) accept-a-payment github project is deployed to Vercel.
-- [ ] accept-a-payment does not return HTTP error 404 on Vercel.
-- [ ] accept-a-payment is updated to use custom image and text.
-
-- [ ] stripe-checkout-next-js-demo is updated to use a payment link to a product in my stripe api.
-- [x] stripe-checkout-next-js-demo is updated to use custom image and text.
-- [ ] stripe-checkout-next-js-demo is updated with correct price.
-- [x] stripe-checkout-next-js-demo github project is deployed to Render.com
-- [x] stripe-checkout-next-js-demo github project is deployed to Netlify
-
-
-- [ ] Add these options to the TODO list (deploy and rebrand) https://www.perplexity.ai/search/99c2a24c-152f-4f9d-b742-ed6cc70cbb48?s=u
+- [ ] Deploy Stripe donation button
+  - [x] Create donation button using Stripe API.
+  - [ ] Update Strip donation button referenced payment link to support at least Google Payment.
+- [ ] Deploy accept-a-payment github project
+  - [x] (User) Forked accept-a-payment github and linked to Vercel.
+  - [ ] accept-a-payment does not return HTTP error 404 on Vercel.
+  - [ ] accept-a-payment is updated to use custom image and text.
+- [ ] Deploy strip-checkout-next-js-demo github project
+  - [ ] stripe-checkout-next-js-demo is updated to use a payment link to a product in my stripe api.
+  - [x] stripe-checkout-next-js-demo is updated to use custom image and text.
+  - [ ] stripe-checkout-next-js-demo is updated with correct price.
+  - [x] stripe-checkout-next-js-demo github project is deployed to Render.com
+  - [x] stripe-checkout-next-js-demo github project is deployed to Netlify
+- [ ] Deploy Paypal donation button
+  - [ ] Research using webpilot plugin how to deploy paypal donation button
 
 ## Notebooks
 
