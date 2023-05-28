@@ -21,24 +21,19 @@ If you find this project useful, you can support its development by making a don
 - [x] Create donation button that uses Stripe.
 - [ ] Update Strip donation button referenced payment link to support at least Google Payment.
 
-- [x] (User) accept-a-payment github project is deployed to Verce.
-- [ ] accept-a-payment on Vercel is updated to use payment link listed above.
-- [ ] accept-a-payment on Vercel is updated to use image listed above.
+- [x] (User) accept-a-payment github project is deployed to Vercel.
+- [ ] accept-a-payment is updated to use custom image and text.
 
-- [ ] accept-a-payment github project is deployed to Ngrok.com
-- [ ] accept-a-payment github project is deployed to Render.com.
-- [ ] accept-a-payment github project is deployed to Netlify
-- [ ] accept-a-payment github project is deployed to Codesandbox.io
-
-- [x] (User) stripe-checkout-next-js-demo github project is deployed to Vercel.
-- [ ] stripe-checkout-next-js-demo on Vercel is updated to use payment link listed above.
-- [ ] stripe-checkout-next-js-demo on Vercel is updated to use image listed above.
-
+- [ ] stripe-checkout-next-js-demo is updated to use a payment link to a product in my stripe api.
+- [x] stripe-checkout-next-js-demo is updated to use custom image and text.
+- [ ] stripe-checkout-next-js-demo is updated with correct price.
+- [ ] stripe-checkout-next-js-demo github project is deployed to Vercel
 - [ ] stripe-checkout-next-js-demo github project is deployed to Ngrok.com
-- [ ] stripe-checkout-next-js-demo github project is deployed to Render.com
-- [ ] stripe-checkout-next-js-demo github project is deployed to Netlify
+- [x] stripe-checkout-next-js-demo github project is deployed to Render.com
+- [x] stripe-checkout-next-js-demo github project is deployed to Netlify
 - [ ] stripe-checkout-next-js-demo github project is deployed to Codesandbox.io
 
+- [ ] Add these options to the TODO list (deploy and rebrand) https://www.perplexity.ai/search/99c2a24c-152f-4f9d-b742-ed6cc70cbb48?s=u
 
 ## Notebooks
 
