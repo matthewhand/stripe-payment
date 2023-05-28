@@ -27,6 +27,9 @@ Or send to my Ethereum (ETH) wallet
 - [ ] Deploy Stripe donation button
   - [x] Create donation button using Stripe API.
   - [ ] Update Strip donation button referenced payment link to support at least Google Payment.
+- [ ] Deploy nextjs-subscription-payments github project
+  - [x] (User) fork github project into https://github.com/matthewhand/nextjs-subscription-payments
+  - [ ] Configure Supabase as per instructions
 - [ ] Deploy accept-a-payment github project
   - [x] (User) Forked accept-a-payment github and linked to Vercel.
   - [ ] accept-a-payment does not return HTTP error 404 on Vercel.
