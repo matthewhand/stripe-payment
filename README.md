@@ -20,7 +20,12 @@ If you find this project useful, you can support its development by making a don
 
 - [x] Create donation button that uses Stripe.
 - [ ] Update Strip donation button referenced payment link to support at least Google Payment.
-- [ ] Vercel deployment example is deployed to Vercel.
+- [x] accept-a-payment github project is deployed to Verce
+- [ ] accept-a-payment on Vercel is updated to use payment link listed above.
+- [ ] accept-a-payment on Vercel is updated to use image listed above.
+- [x] stripe-checkout-next-js-demo github project is deployed to Vercel.
+- [ ] stripe-checkout-next-js-demo on Vercel is updated to use payment link listed above.
+- [ ] stripe-checkout-next-js-demo on Vercel is updated to use image listed above.
 
 ## Notebooks
 
