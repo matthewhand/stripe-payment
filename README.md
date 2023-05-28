@@ -22,6 +22,7 @@ If you find this project useful, you can support its development by making a don
 - [ ] Update Strip donation button referenced payment link to support at least Google Payment.
 
 - [x] (User) accept-a-payment github project is deployed to Vercel.
+- [ ] accept-a-payment does not return HTTP error 404 on Vercel.
 - [ ] accept-a-payment is updated to use custom image and text.
 
 - [ ] stripe-checkout-next-js-demo is updated to use a payment link to a product in my stripe api.
