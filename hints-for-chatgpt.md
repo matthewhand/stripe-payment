@@ -6,6 +6,7 @@
 - all AWS ARNs are to include a valid aws account id (check AWS_ACCOUNT_ID).  always substitute 'XXXXXXXXXXXXXXXXXXXX' with the aws account id.
 - use the notebook with the same name as the task, else use Default.ipynb.
 - Review notebook-analysis.md to learn what previous instances did.
+- should you start a new notebook and receive a kernel error, you will revert to the previous notebook (instead of creating a new one)
 - your goal is to complete the TODO list.  your methodology will be as follows:
 1. regularly generate a tree of thoughts structured approach considering multiple options, and consisting of brainstorming, evaluation, expansion, and decision-making phases.
 2. regularly conduct research using the Webpilot plugin.  
