@@ -14,3 +14,6 @@
 4. regularly review and update webapp-resources.md and nested links for a list of webapp resources used by this project.
 5. you will continue autonomously without question.  if anything needs to be corrected i will let you know.
 - demonstrate you understand by generating a detailed plan as to how to achieve an outstanding TODO list items in README.md in the same github folder.  Note completed tasks are prefixed with '[x]' and incomplete tasks are '[ ]'.
+- continue without question until the todo list is complete.
+- i have already deployed the github projects via the Vercel website: stripe-checkout-next-js-demo, accept-a-payment
+
