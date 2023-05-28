@@ -7,6 +7,7 @@ This project was entirely developed using ChatGPT and the Noteable plugin. It de
 - Deploying code to GitHub using the GitHub API.
 - Creation of a GitHub README.md that includes a generated image.
 - A NodeJS Stripe deployment to Vercel hosting via the Vercel API.
+- Modifying open source software using natural language.
 
 ## Donation Button
 
