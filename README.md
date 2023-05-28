@@ -18,7 +18,9 @@ If you find this project useful, you can support its development by making a don
 
 ## TODO
 
-- Vercel deployment
+- [x] Create donation button that uses Stripe.
+- [ ] Update Strip donation button referenced payment link to support at least Google Payment.
+- [ ] Vercel deployment example is deployed to Vercel.
 
 ## Notebooks
 
