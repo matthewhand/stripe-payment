@@ -32,11 +32,11 @@ Or send to my Ethereum (ETH) wallet
   - [ ] accept-a-payment does not return HTTP error 404 on Vercel.
   - [ ] accept-a-payment is updated to use custom image and text.
 - [ ] Deploy strip-checkout-next-js-demo github project
+  - [x] (User) Forked stripe-checkout-next-js-demo and deployed to Render.com
+  - [x] (User) Forked stripe-checkout-next-js-demo and deployed to Netlify
   - [ ] stripe-checkout-next-js-demo is updated to use a payment link to a product in my stripe api.
   - [x] stripe-checkout-next-js-demo is updated to use custom image and text.
   - [ ] stripe-checkout-next-js-demo is updated with correct price.
-  - [x] stripe-checkout-next-js-demo github project is deployed to Render.com
-  - [x] stripe-checkout-next-js-demo github project is deployed to Netlify
 - [ ] Deploy Paypal donation button
   - [ ] Research using webpilot plugin how to deploy paypal donation button
 
