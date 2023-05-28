@@ -17,7 +17,7 @@ If you find this project useful, you can support its development by making a don
 
 <img src="https://github.com/matthewhand/stripe-payment/raw/main/qr_00g14peASeEd7xCcMM.png" width="150" />
 
-My Ethereum (ETH) Receiving Address
+Or send to my Ethereum (ETH) wallet
 `0xDf994CeA5a0a11397C938cd903259E8496DA15f5`
 
 <img src="https://github.com/matthewhand/stripe-payment/raw/main/etherium-qrcode-receive.png" width="150" />
